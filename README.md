@@ -21,7 +21,7 @@ It is, in one sentence, a family health endowment: premiums evaporate, but this 
 
 Two failures compound each other.
 
-**Denied and excluded care is normal, not exceptional.** Insurers cover the surgery and refuse the implant that completes it. A $10,000 operation is paid; the $7,000 dental implant it necessitates is "cosmetic." Hearing aids, LASIK, fertility care, physical therapy beyond a cap, prescriptions off formulary — the list of standard exclusions is long, predictable, and lands hardest on people who did everything right.
+**Denied and excluded care is normal, not exceptional.** The same plan will pay $10,000 for knee arthroscopy on a degenerative meniscus tear — an operation a sham-controlled trial found no better than placebo surgery — and refuse a $7,000 dental implant as "cosmetic." Never mind that the implant is the only replacement that works like a real tooth. Never mind that people missing teeth cannot eat properly, and that tooth loss is tied to depression and destroyed self-confidence. The extraction is covered. A removable denture is covered. The tooth is cosmetic. Hearing aids, LASIK, fertility care, physical therapy beyond a cap, prescriptions off formulary — the list of standard exclusions is long, predictable, and lands hardest on people who did everything right.
 
 **Health money is use-it-or-lose-it.** Premiums buy a year of coverage and nothing else. Even the best existing tool, the health savings account, is tied to specific plan types, is little known, and was never designed as a family legacy. A worker can pay into the health system for forty years and leave their children nothing but stories.
 
@@ -80,8 +80,8 @@ Member dies with a 4,300-coin balance
 
 **The scenario this was designed around:**
 
-- Surgery: $10,000 — **insurance pays.**
-- Dental implant: $7,000 — **insurance refuses.**
+- Knee arthroscopy (degenerative meniscus tear): $10,000 — **insurance pays** (a sham-controlled trial found it no better than placebo surgery for this use).
+- Dental implant: $7,000 — **insurance refuses** ("cosmetic/excluded").
 - The member has contributed $200/month for 3 years = $7,200 in coin.
 - Denial letter submitted → the nonprofit pays the dentist $7,000 directly → implant done, $200 balance remains.
 - Had the member instead died before using it: the heir keeps the $7,200 for their own future care, or sells back and receives **$5,400 cash**, with **$1,800** going to the assistance pool.
